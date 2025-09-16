@@ -24,7 +24,8 @@ This project is designed to assist with HVAC (Heating, Ventilation, and Air Cond
 - Modify the script as needed to fit your specific HVAC TAB requirements.
 
 ## License
-This project is provided as-is for educational and professional use. Please review and update the license section as needed for your use case.
+This project is provided as-is for educational and professional use. 
 
 ## Author
-- Your Name Here
+- RR23 @Rushan
+
